@@ -1,0 +1,82 @@
+
+.navbar{
+  height:60px;
+  background-image:url("Images/NavBackground.jpg");
+  color:#FFF;
+  font-family: 'Yatra One', cursive;
+}
+.navbar-brand img{
+  margin: 0px 0px 0px 0px;
+  width:30px;
+  height:30px;
+}
+.navbar li{
+  margin-top:5px;
+  margin-left:0px;
+  text-decoration:none;
+  color:#FFF
+}
+.navbar li:hover{
+  color:#FFF;
+}
+.navbar-collapse{
+  background-image:url("Images/NavBackground.jpg");
+}
+b{
+  color:#000;
+}
+b:hover{
+  color:#333;
+}
+b:active{
+  color:#000;
+}
+.jumbotron{
+  font-family: 'Yatra One', cursive;
+  color:#000;
+  margin-top:20px;
+}
+#title{
+  text-align: center;
+  font-size: 8vw;
+  background-color:#FFF;
+  margin:auto;
+}
+#title h1{
+  margin-top:50px;
+}
+#summary{
+  background-color:#F77;
+  height:auto;
+  text-indent: 50px;
+  margin:auto;
+}
+#summary h3{
+  width:70vw;
+  margin-left:15vw;
+  text-align: justify;
+}
+#images{
+  background-color:#77F;
+  height:auto;
+  text-indent: 50px;
+  margin:auto;
+}
+#images img{
+  display:inline;
+  width:30vw;
+  height:30vw;
+  object-fit: cover;
+  margin:0;
+  object-position: right;
+}
+#glossary{
+  background-color:#FF7;
+  height:auto;
+  margin:auto;
+}
+#glossary h3{
+  width:70vw;
+  margin-left:15vw;
+  text-align: justify;
+}

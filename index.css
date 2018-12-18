@@ -1,0 +1,85 @@
+#navJumbo{
+  background-image:url("Images/NavBackground.jpg");
+  background-size:cover;
+  height:100vh;
+  overflow:hidden;
+}
+#mainnav{
+  background:transparent;
+  position:relative;
+  font-family: 'Yatra One', cursive;
+}
+h3{
+  color:#000;
+  font-family: 'Yatra One', cursive;
+  z-index:1000;
+  font-size: 1.5vw;
+}
+a{
+  color:#000;
+  text-decoration: none;
+}
+a:hover{
+  color:#666;
+  text-decoration: none;
+}
+#RoonNavPic{
+  width:30vw;
+  height:30vw;
+  left:35vw;
+  top:10vh;
+  border-radius:15vw;
+  border: 7px solid #000;
+  position:absolute;
+  z-index:3;
+  Filter: invert(10%);
+}
+#menu{
+  position:absolute;
+  top:-9.6vh;
+  left:-3.5vw;
+  z-index:1;
+  width:110vw;
+  height:auto;
+}
+.menuitem{
+width:20vw;
+position:absolute
+}
+
+#whyadopt{
+  margin-left:15vw;
+  margin-top:28vh;
+}
+#adopt{
+  margin-left:15.5vw;
+  margin-top:39vh;
+}
+#puppymill{
+  margin-left:18.5vw;
+  margin-top:47.5vh;
+}
+#addshelter{
+  margin-left:23.5vw;
+  margin-top:56vh;
+}
+#adoptout{
+  text-align: right;
+  margin-left:55vw;
+  margin-top:3vh;
+}
+#joinus{
+  text-align: right;
+  margin-left:63.5vw;
+  margin-top:11.5vh;
+}
+#donate{
+  text-align: right;
+  margin-left:65vw;
+  margin-top:22vh;
+}
+#about{
+  text-align: right;
+  margin-left:68.5vw;
+  margin-top:31.5vh;
+}
